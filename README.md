@@ -67,19 +67,7 @@ npm start
    - Open the chat interface.
    - Send and receive messages in real time.
 
-## Backend Endpoints
 
-- **Login**: `POST /login`  
-  Authenticate users based on their name and phone number.  
-
-- **Register**: `POST /api/register`  
-  Register new users with name, phone number, and profile picture.  
-
-- **Add Contact**: `POST /contact`  
-  Add a contact to a user’s contact list.  
-
-- **Get Data**: `GET /data`  
-  Retrieve all user data and messages.  
 
 ## How It Works
 
