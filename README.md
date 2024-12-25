@@ -34,7 +34,7 @@ A real-time chat application that allows two users to communicate seamlessly. Bu
 cd backend
 npm install
 ```
-# Start the backend server:
+#### Start the backend server:
 
 ```bash
 npm start
@@ -46,7 +46,7 @@ npm start
 cd ../frontend
 npm install
 ```
-# Start the frontend development server:
+#### Start the frontend development server:
 
 ```bash
 npm start
